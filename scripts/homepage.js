@@ -11,6 +11,7 @@ var currentScrollPos = window.pageYOffset;
 }
 
 
+
 //background video
 
 var video = document.getElementById("background-video");
@@ -24,3 +25,5 @@ btn.innerHTML = "Pause II";
 video.pause();
 btn.innerHTML = " Play ▶ ";
 }}
+
+
