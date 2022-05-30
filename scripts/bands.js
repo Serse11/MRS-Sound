@@ -16,7 +16,7 @@ class Group {
 const groupeOne = new Group("../pages/witchfinder.html","../assets/Witchfinder.jpg", "WITCHFINDER", "Doom / Heavy Psych");
 const groupeTwo = new Group("../pages/marsRedSky.html","../assets/mars-red-sky.jpg", "MARS RED SKY", "Heavy Psych");
 const groupeThree = new Group("../pages/datchaMandala.html","../assets/datcha-mandala-band.jpg", "DÄTCHA MANDALA", "Classic Rock / Heavy blues / Heavy Psych");
-const groupeFour = new Group("../pages/baronCrane.html","../assets/Baron-Crane_Crédits_Emilie-Mauger03.jpg", "BARON CRÂNE", "Heavy Psych / Jazz Fusion / Progressive");
+const groupeFour = new Group("../pages/baronCrane.html","../assets/Baron-Crane_Crédits_Emilie-Mauger03.jpg", "BARON CRÂNE", "Heavy Psych / Jazz Fusion / Progressive");
 const groupeFive = new Group("../pages/littleJimi.html","../assets/little-jimi.jpg", "LITTLE JIMI", "Heavy Psych / Progressive / Rock");
 const groupeSix = new Group("../pages/redSunAtacama.html","../assets/RedSunAtacama.jpg", "RED SUN ATACAMA", "Heavy Psych");
 
