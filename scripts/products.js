@@ -1,5 +1,5 @@
-//  Panier des Produits de 1er Groupe----
-  const productsList1 =[
+  let productsList1 = [
+
   productsWitchfinde1,
   productsWitchfinde2,
   productsWitchfinde3,
@@ -11,7 +11,8 @@
   productsWitchfinde9,
   productsWitchfinde10,
   productsWitchfinde11,
-  productsWitchfinde12]
+  productsWitchfinde12
+];
 let i = 0;
   let basket1 = [];
   function basketWich() {
@@ -65,6 +66,4 @@ let i = 0;
     });
   }
   toggleMenu();
-
-
 
