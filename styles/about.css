@@ -45,6 +45,20 @@
     width: 60px;
 }
 
+/*----Rajout de l'annimation sous les élements de la nav-bar----*/
+a > .pages::after  {
+    display: block;
+    content: "";
+    width: 0;
+    height: 2px;
+    background: black;
+    transition:width .4s;
+  }
+a:hover > .pages::after {
+    width: 100%;
+  }
+
+
 /*--Rajout du menu déroulant ----*/
 .sous-liste {
     line-height: 50px;
