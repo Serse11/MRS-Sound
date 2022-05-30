@@ -52,66 +52,72 @@ class Products {
 //Instanciattion 1er objet------
 
 const productsWitchfinde1 = new Products(
+<<<<<<< HEAD
   "./drive-download-20220523T111720Z-001/Witchfinder/WITCHFINDER DOUBLE VINYL ALBUM HAZY RITES/hazyrites-black-LP.jpg",
   "Hazy Rites Black",
   "25",
+=======
+  "./Witchfinder/WITCHFINDER DOUBLE VINYL ALBUM HAZY RITES/hazyrites-black-LP.jpg",
+  "WITCHFINDER Hazy Rites LP",
+  "15",
+>>>>>>> f781959f2546569f01252077b2d861d2a87b3f1a
 );
 const productsWitchfinde2 = new Products(
   "./Witchfinder/WITCHFINDER DOUBLE VINYL ALBUM HAZY RITES/hazyrites-green-LP.jpg",
-  "Hazy Rites Green",
-  "20",
+  "WITCHFINDER Hazy Rites Double Vinyl Green",
+  "25",
 
 );
 const productsWitchfinde3 = new Products(
   "./Witchfinder/WITCHFINDER DOUBLE VINYL ALBUM HAZY RITES/hazyrites-yellow-JP.jpg",
-  "Hazy Rites yellow",
-  "22"
+  "WITCHFINDER Hazy Rites Double Vinyl Yellow",
+  "25"
 );
 const productsWitchfinde4 = new Products(
   "./Witchfinder/WITCHFINDER DOUBLE VINYL ALBUM HAZY RITES/witchfinder-back.jpg",
-  "Wild Trippin Sorry",
+  "WITCHFINDER Hazy Rites Double Vinyl Black",
   "28"
 );
 
 const productsWitchfinde6 = new Products(
   "./MARS RED SKY/M.R.S CUSTOM©. FUZZ I LOW TUNINGS/pedal1.jpg",
-  "Pedal Red Guittare",
-  "35"
+  "M.R.S CUSTOM©. FUZZ I LOW TUNINGS",
+  "195"
 );
 const productsWitchfinde7 = new Products(
   "./MARS RED SKY/M.R.S CUSTOM©. FUZZ II GUITAR FUZZ/pedal-green1.jpg",
-  "Pedal Green Guittare",
-  "35"
+  "M.R.S CUSTOM©. FUZZ II GUITAR FUZZ",
+  "195"
 );
 const productsWitchfinde8 = new Products(
   "./MARS RED SKY/MARS RED SKY CASSETTE EP COLLECTOR/k7_verso_MRS-collectorEP.jpg",
-  "Cassette Collector K7",
+  "MARS RED SKY CASSETTE EP Collector K7",
   "15"
 );
 const productsWitchfinde9 = new Products(
   "./MARS RED SKY/MARS RED SKY CASSETTE EP COLLECTOR/MRS-K7.jpg",
-  "Cassette Collector",
+  "MARS RED SKY CASSETTE",
   "22"
 );
 
 const productsWitchfinde10 = new Products(
   "./MARS RED SKY/MARS RED SKY CASSETTE EP COLLECTOR/Collector-EP-cover.jpg",
-  "Vinyl Collector",
+  "MARS RED SKY CASSETTE EP COLLECTOR",
   "22"
 );
 const productsWitchfinde11 = new Products(
   "./MARS RED SKY/MARS RED SKY VINYL ALBUM DEBUT ALBUM/debut-cover.jpg",
-  "Vinyl Collector ",
+  "MARS RED SKY VINYL ALBUM DEBUT ALBUM",
   "24"
 );
 const productsWitchfinde12 = new Products(
   "./MARS RED SKY/MARS RED SKY VINYL ALBUM DEBUT ALBUM/DEBUT-LP.jpg",
-  "Vinyl Collector LP ",
+  "MARS RED SKY VINYL ALBUM DEBUT ALBUM LP ",
   "25"
 );
 const productsWitchfinde5 = new Products(
   "./Witchfinder/WITCHFINDER DOUBLE VINYL ALBUM HAZY RITES/witchfinder-cover.jpg",
-  "Hazy Rites Lives",
+  "WITCHFINDER DOUBLE VINYL ALBUM HAZY RITES",
   "25"
 );
 
@@ -192,22 +198,22 @@ function displayWitch() {
 
 const productsMarsRed1 = new Products(
   "./MARS RED SKY/MARS RED SKY VINYL ALBUM STRANDED IN ARCADIA/Arcadia-cover.jpg",
-  "Vinyl Arcadia",
+  "MARS RED SKY VINYL ALBUM STRANDED IN ARCADIA Vinyl Black",
   "25"
 );
 const productsMarsRed2 = new Products(
   "./MARS RED SKY/MARS RED SKY VINYL ALBUM STRANDED IN ARCADIA/Arcadia-yellow-LP.jpg",
-  "Started In Arcadia",
+  "MARS RED SKY VINYL ALBUM STRANDED IN ARCADIA Vinyl Yellow",
   "25"
 );
 const productsMarsRed3 = new Products(
   "./MARS RED SKY/MARS RED SKY CD DIGISLEEVE THE TASK ETERNAL/back-GATEFOLD.jpg",
-  "The Task Eternal ",
+  "MARS RED SKY CD DIGISLEEVE THE TASK ETERNAL Gatefold",
   "35"
 );
 const productsMarsRed4 = new Products(
   "./MARS RED SKY/MARS RED SKY CD DIGISLEEVE THE TASK ETERNAL/couv-thetasketernal.jpg",
-  "The Task Eternal",
+  "MARS RED SKY CD DIGISLEEVE THE TASK ETERNAL",
   "18"
 );
 const productsMarsRed5 = new Products(
@@ -222,32 +228,32 @@ const productsMarsRed6 = new Products(
 );
 const productsMarsRed7 = new Products(
   "./MARS RED SKY/MARS RED SKY VINYL ALBUM ANNIVERSARY REISSUE/insideMRS.jpg",
-  "PRAISE FOR THE BURNING SOUL",
+  "MARS RED SKY VINYL ALBUM ANNIVERSARY REISSUE PRAISE FOR THE BURNING SOUL",
   "25"
 );
 const productsMarsRed8 = new Products(
   "./MARS RED SKY/MARS RED SKY VINYL ALBUM ANNIVERSARY REISSUE/reissue-mockup.jpg",
-  "Anniverssary Reissue II",
+  "MARS RED SKY VINYL ALBUM ANNIVERSARY REISSUE II",
   "22"
 );
 const productsMarsRed9 = new Products(
   "./MRS RED SOUND/MRS-RedSound-Records-serigraphie.jpg",
-  "Rocords Serigraphie",
+  "MRS Records Serigraphie",
   "21"
 );
 const productsMarsRed10 = new Products(
   "./MARS RED SKY/MARS RED SKY CD ALBUM APEX III (PRAISE FOR THE BURNING SOUL)/MRS-fullcover.jpg",
-  "CD Praise For The Burning Soul ",
+  "MARS RED SKY CD ALBUM APEX III Praise For The Burning Soul ",
   "15"
 );
 const productsMarsRed11 = new Products(
   "./MARS RED SKY/MARS RED SKY CD ALBUM STRANDED IN ARCADIA/strandedinarcadia-MRS.jpg",
-  "CD Stranded In Arcadia ",
+  "MARS RED SKY CD Stranded In Arcadia ",
   "15"
 );
 const productsMarsRed12 = new Products(
   "./MARS RED SKY/MARS RED SKY COBRA T-SHIRT/motif-cobra.jpg",
-  "Cobra Motif ",
+  "MARS RED SKY Tee-shirt Cobra Motif ",
   "10"
 );
 
@@ -315,17 +321,17 @@ function displayMars() {
 
 const productsDataCha1 = new Products(
   "./DÄTCHA MANDALA/BUNDLE DÄTCHA MANDALA CD DIGISLEEVE + T-SHIRT/livret-12-pages.jpg",
-  "Mandala CD DigiSleeve + T-Shirt",
+  "Dätcha Mandala CD DigiSleeve + T-Shirt",
   "28"
 );
 const productsDataCha2 = new Products(
   "./DÄTCHA MANDALA/BUNDLE DÄTCHA MANDALA CD DIGISLEEVE + T-SHIRT/bundleCDTS.jpg",
-  "Mandala CD DigiSleeve + T-Shirt",
+  "Dätcha Mandala CD DigiSleeve + T-Shirt",
   "28"
 );
 const productsDataCha3 = new Products(
   "./DÄTCHA MANDALA/BUNDLE DÄTCHA MANDALA CD DIGISLEEVE + T-SHIRT/bundleCDDB.jpg",
-  "Mandala CD DigiSleeve I ",
+  "Dätcha Mandala CD DigiSleeve I ",
   "20"
 );
 const productsDataCha4 = new Products(
@@ -335,22 +341,22 @@ const productsDataCha4 = new Products(
 );
 const productsDataCha5 = new Products(
   "./DÄTCHA MANDALA/DÄTCHA MANDALA - VINYL EP ANÂHATA/ANAHATA-LP.jpg",
-  "Vinyl EP Anahata I",
+  "Dätcha Mandala Vinyl EP Anahata I",
   "22"
 );
 const productsDataCha6 = new Products(
   "./DÄTCHA MANDALA/DÄTCHA MANDALA - VINYL EP ANÂHATA/cover-DM.jpg",
-  "Vinyl EP Anahata II ",
+  "Dätcha Mandala Vinyl EP Anahata II ",
   "22"
 );
 const productsDataCha7 = new Products(
   "./DÄTCHA MANDALA/DÄTCHA MANDALA CD BUNDLE/bundle-CD.jpg",
-  "Mandala CD bundle I",
+  "Dätcha Mandala CD bundle I",
   "20"
 );
 const productsDataCha8 = new Products(
   "./DÄTCHA MANDALA/DÄTCHA MANDALA CD BUNDLE/CD-TheLastDrop.jpg",
-  "Mandala CD bundle II ",
+  "Dätcha Mandala CD bundle II ",
   "20"
 );
 const productsDataCha9 = new Products(
@@ -360,17 +366,17 @@ const productsDataCha9 = new Products(
 );
 const productsDataCha10 = new Products(
   "./DÄTCHA MANDALA/DÄTCHA MANDALA CD BUNDLE/ROKH-CD.jpg",
-  "Mandala CD Rock ",
+  "Dätcha Mandala CD Rock ",
   "20"
 );
 const productsDataCha11 = new Products(
   "./DÄTCHA MANDALA/DÄTCHA MANDALA CD DIGISLEEVE ALBUM HARA/DatchaMandala-CD.jpg",
-  "Mandala CD DigiSleeve Hara ",
+  "Dätcha Mandala CD DigiSleeve Hara ",
   "18"
 );
 const productsDataCha12 = new Products(
   "./DÄTCHA MANDALA/DÄTCHA MANDALA CD DIGISLEEVE ALBUM HARA/DatchaMandala.jpg",
-  "Mandala CD DigiSleeve Rock",
+  "Dätcha Mandala CD DigiSleeve Rock",
   "20"
 );
 
@@ -440,32 +446,32 @@ function displayDatacha() {
 
 const productsBaron1 = new Products(
   "./BARON CRÂNE/BARON CRÂNE CD DIGISLEEVE LES BEAUX JOURS/back.jpg",
-  "CD DigiSleeve les beaux jours I",
+  "Baron Crâne CD DigiSleeve Les Beaux Jours I",
   "22"
 );
 const productsBaron2 = new Products(
   "./BARON CRÂNE/BARON CRÂNE CD DIGISLEEVE LES BEAUX JOURS/BaronCrane-LesBeauxJours.jpg",
-  "CD DigiSleeve les beaux jours II",
+  "Baron Crâne CD DigiSleeve Les Beaux Jours II",
   "23"
 );
 const productsBaron3 = new Products(
   "./BARON CRÂNE/BARON CRÂNE VINYL ALBUM COMMOTIONS/Commotions-BaronCrane-Artwork-FlorineSamson.jpg",
-  "Vinyl Album Commotions",
+  "Baron Crâne Vinyl Album Commotions",
   "21"
 );
 const productsBaron4 = new Products(
   "./BARON CRÂNE/BARON CRÂNE VINYL ALBUM COMMOTIONS/Commotions-BluesLP.jpg",
-  "Album  Commotions Blues",
+  "Baron Crâne Album Commotions Blues",
   "22"
 );
 const productsBaron5 = new Products(
   "./BARON CRÂNE/BARON CRÂNE VINYL ALBUM COMMOTIONS/Verso-Commotions-BC.jpg",
-  "Album Commotions Verso",
+  "Baron Crâne Album Commotions Verso",
   "20"
 );
 const productsBaron6 = new Products(
   "./BARON CRÂNE/BARON CRÂNE CD DIGISLEEVE LES BEAUX JOURS/back.jpg",
-  "CD DigiSleeve les beaux jours I",
+  "Baron Crâne CD DigiSleeve les beaux jours I",
   "22"
 );
 const productsBaron7 = new Products(
@@ -475,27 +481,27 @@ const productsBaron7 = new Products(
 );
 const productsBaron8 = new Products(
   "./MARS RED SKY/MARS RED SKY TOTE-BAG/totebag.jpg",
-  "TOTE-BAG",
+  "MARS RED SKY Tote-bag",
   "15"
 );
 const productsBaron9 = new Products(
   "./MARS RED SKY/MARS RED SKY ZIP HOODIE/MRS-hoodie-back-red.jpg",
-  "Zip HOODIE Red",
-  "25"
+  "MARS RED SKY Zip HOODIE Red",
+  "45"
 );
 const productsBaron10 = new Products(
   "./MARS RED SKY/MARS RED SKY ZIP HOODIE/MRS-hoodie-back.jpg",
-  "Zip HOODIE gray ",
+  "MARS RED SKY Zip HOODIE Gray ",
   "45"
 );
 const productsBaron11 = new Products(
   "./MARS RED SKY/MARS RED SKY ZIP HOODIE/MRS-hoodie-front.jpg",
-  "Zip HOODIE black ",
+  "MARS RED SKY Zip HOODIE Black ",
   "45"
 );
 const productsBaron12 = new Products(
   "./MARS RED SKY/MARS RED SKY T-SHIRT ZEUS/Tshirt-Zeus.jpg",
-  "T-Shirt Zeus",
+  "MARS RED SKY T-Shirt Zeus",
   "25"
 );
 
@@ -569,7 +575,7 @@ function displayBaron() {
 
 const productsLittleJimi1 = new Products(
   "./LITTLE JIMI/LITTLE JIMI - VINYL ALBUM EP.1/JP-back.jpg",
-  "Vinyl Album EP ",
+  "LITTLE JIMI Vinyl Album EP ",
   "27"
 );
 const productsLittleJimi2 = new Products(
@@ -579,47 +585,47 @@ const productsLittleJimi2 = new Products(
 );
 const productsLittleJimi3 = new Products(
   "./LITTLE JIMI/LITTLE JIMI - VINYL ALBUM EP.1/LJ-picture.jpg",
-  "Vinyl Album EP I",
+  "LITTLE JIMI Vinyl Album EP I",
   "27"
 );
 const productsLittleJimi4 = new Products(
   "./LITTLE JIMI/LITTLE JIMI - VINYL ALBUM EP.1/LJ-tour.jpg",
-  "Vinyl Album EP II",
+  "LITTLE JIMI Vinyl Album EP II",
   "25"
 );
 const productsLittleJimi5 = new Products(
   "./LITTLE JIMI/LITTLE JIMI - VINYL ALBUM EP.1/LJ-vinyl-1.jpg",
-  "Vinyl Album EP ",
+  "LITTLE JIMI Vinyl Album EP I",
   "27"
 );
 const productsLittleJimi6 = new Products(
   "./LITTLE JIMI/LITTLE JIMI VINYL ALBUM THE CANTOS/Little-Jimi-artwork.jpg",
-  "The Cantos ",
+  "LITTLE JIMI The Cantos Vinyl",
   "26"
 );
 const productsLittleJimi7 = new Products(
   "./MARS RED SKY/VINYL EP MYRAMYD/immustration.jpg",
-  "vinyl EP MYRAMYD I ",
+  "LITTLE JIMI Vinyl EP MYRAMYD I ",
   "25"
 );
 const productsLittleJimi8 = new Products(
   "./MARS RED SKY/VINYL EP MYRAMYD/Myramyd-back.jpg",
-  "Vinyl EP MYRAMYD II ",
+  "LITTLE JIMI Vinyl EP MYRAMYD II ",
   "22"
 );
 const productsLittleJimi9 = new Products(
   "./MARS RED SKY/VINYL EP MYRAMYD/MYRAMYD-LP.jpg",
-  "Vinyl EP MYRAMYD III ",
+  "LITTLE JIMI Vinyl EP MYRAMYD III ",
   "25"
 );
 const productsLittleJimi10 = new Products(
   "./MARS RED SKY/MARS RED SKY VINYL ALBUM STRANDED IN ARCADIA/Arcadia-cover.jpg",
-  "Stranded In Arcadia I ",
+  "MARS RED SKY Stranded In Arcadia Vinyl Album I ",
   "22"
 );
 const productsLittleJimi11 = new Products(
   "./MARS RED SKY/MARS RED SKY VINYL ALBUM STRANDED IN ARCADIA/Arcadia-yellow-LP.jpg",
-  "Stranded In Arcadia II ",
+  "MARS RED SKY Stranded In Arcadia Vinyl Album II ",
   "22"
 );
 const productsLittleJimi12 = new Products(
@@ -701,58 +707,58 @@ const productsRedSun1 = new Products(
 );
 const productsRedSun2 = new Products(
   "./MARS RED SKY/MARS RED SKY CD ALBUM STRANDED IN ARCADIA/Strandedinarcadia-MRS2.jpg",
-  "Standed In Arcadia III",
+  "MARS RED SKY Standed In Arcadia CD III",
   "15"
 );
 
 const productsRedSun3 = new Products(
   "./Red Sun Atacama/PREORDER RED SUN ATACAMA CD ALBUM DARWIN/Darwin-LP-back.jpg",
-  "CD Darwin III",
+  "Red Sun Atacama CD Darwin III",
   "27"
 );
 const productsRedSun4 = new Products(
   "./VICTORY HALL/VICTORY HALL VINYL ALBUM THE SOMEDAY HERALD/victoryhall-back.jpg",
-  "The somme day herald I",
+  "VICTORY HALL The somme day herald I",
   "28"
 );
 const productsRedSun5 = new Products(
   "./VICTORY HALL/VICTORY HALL VINYL ALBUM THE SOMEDAY HERALD/victoryhall-booklet.jpg",
-  "The somme day herald II",
+  "VICTORY HALL The somme day herald II",
   "27"
 );
 const productsRedSun6 = new Products(
   "./VICTORY HALL/VICTORY HALL VINYL ALBUM THE SOMEDAY HERALD/victoryhall-vinyl.jpg",
-  "The somme day herald III",
+  "VICTORY HALL The somme day herald III",
   "23"
 );
 const productsRedSun7 = new Products(
   "./MARS RED SKY/MARS RED SKY VINYL GATEFOLD THE TASK ETERNAL/back-GATEFOLD.jpg",
-  "Gatefold the Task Eternal I",
+  "MARS RED SKY Gatefold the Task Eternal I",
   "21"
 );
 const productsRedSun8 = new Products(
   "./MARS RED SKY/MARS RED SKY CD ALBUM STRANDED IN ARCADIA/strandedinarcadia-MRS.jpg",
-  "Gatefold the Task Eternal II",
+  "MARS RED SKY STRANDED IN ARCADIA",
   "27"
 );
 const productsRedSun9 = new Products(
   "./MARS RED SKY/MARS RED SKY VINYL GATEFOLD THE TASK ETERNAL/TTE-white-LP.jpg",
-  "Gatefold the Task Eternal III",
+  "MARS RED SKY Gatefold the Task Eternal III",
   "27"
 );
 const productsRedSun10 = new Products(
   "./MARS RED SKY/MARS RED SKY CD ALBUM STRANDED IN ARCADIA/Stranded-cd.jpg",
-  "Standed In Arcadia I",
+  "MARS RED SKY Standed In Arcadia I",
   "22"
 );
 const productsRedSun11 = new Products(
   "./MARS RED SKY/MARS RED SKY CD ALBUM STRANDED IN ARCADIA/Strandedinarcadia-MRS.jpg",
-  "Standed In Arcadia II",
+  "MARS RED SKY Standed In Arcadia II",
   "18"
 );
 const productsRedSun12 = new Products(
   "./Red Sun Atacama/PREORDER RED SUN ATACAMA CD ALBUM DARWIN/Darwin-cover.jpg",
-  "CD Darwin II",
+  "Red Sun Atacama CD Darwin II",
   "27"
 );
 
