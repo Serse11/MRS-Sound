@@ -52,7 +52,7 @@ class Products {
 //Instanciattion 1er objet------
 
 const productsWitchfinde1 = new Products(
-  "./Witchfinder/WITCHFINDER DOUBLE VINYL ALBUM HAZY RITES/hazyrites-black-LP.jpg",
+  "./drive-download-20220523T111720Z-001/Witchfinder/WITCHFINDER DOUBLE VINYL ALBUM HAZY RITES/hazyrites-black-LP.jpg",
   "Hazy Rites Black",
   "25",
 );
