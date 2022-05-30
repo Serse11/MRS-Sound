@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700;800;900&display=swap');
+
+
+
+
+
+
+ footer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+ /* position: fixed;*/
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding-top: 20px;
+  /*padding-bottom: 20px;*/
+  background-color: black;
+  align-items: center;
+}
+
+.middle p {
+font-family: Montserrat, Verdana, Geneva, Tahoma, sans-serif;
+font-weight: 300;
+text-transform: uppercase;
+color: white;
+font-size: 12px;
+padding: 1em;
+}
+
+.left img{
+  height: 40px;
+  width: 100px;
+}
+
+.right img{
+  width: 30px;
+  margin-right: 1em;
+}
