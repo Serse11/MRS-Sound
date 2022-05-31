@@ -394,7 +394,7 @@ function displayDatacha() {
 
   bandContainer.innerHTML = `
   <div class="container-3">
-                    <div class="imgGroup">
+                    <div class="imgGroup" style="margin-top: 20em;">
                           <img src="../assets/datcha-mandala.jpg" alt="Groupe DÄTCHA MANDALA">
                     </div>
                     <div class="description">
