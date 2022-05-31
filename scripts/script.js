@@ -697,12 +697,12 @@ function displayLittleJimi() {
 //  Instanciation 6ème Objet------
 
 const productsRedSun1 = new Products(
-  "./Red Sun Atacama/PREORDER RED SUN ATACAMA CD ALBUM DARWIN/Darwin-CD.jpg",
+  "../drive-download-20220523T111720Z-001/Red Sun Atacama/PREORDER RED SUN ATACAMA CD ALBUM DARWIN/Darwin-CD.jpg",
   "<a href ='https://marsredsky.bigcartel.com/product/red-sun-atacama-cd-album-darwin'>CD Darwin I</a>",
   "13"
 );
 const productsRedSun2 = new Products(
-  "./MARS RED SKY/MARS RED SKY CD ALBUM STRANDED IN ARCADIA/Strandedinarcadia-MRS2.jpg",
+  "../drive-download-20220523T111720Z-001/MARS RED SKY/MARS RED SKY CD ALBUM STRANDED IN ARCADIA/Strandedinarcadia-MRS2.jpg",
   "MARS RED SKY Standed In Arcadia CD III",
   "15"
 );
@@ -780,7 +780,7 @@ function displayRedSun() {
   bandContainer.innerHTML = `
   <div class="container-6">
                     <div class="imgGroup">
-                          <img src="../assets/RedSunAtacama.png" alt="Groupe RED SUN ATACAMA">
+                          <img src="../assets/RedSunAtacama.jpg" alt="Groupe RED SUN ATACAMA">
                     </div>
                     <div class="description">
                           <h3>RED SUN ATACAMA</h3>
