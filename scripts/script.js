@@ -141,6 +141,7 @@ productsList.push(
 
 const productsContainer = document.querySelector("#products-container");
 function displayWitch() {
+  productsContainer.innerHTML = "";
   bandContainer.innerHTML = `
   
   <div class="container-1">
@@ -267,6 +268,7 @@ productsMars.push(
   productsMarsRed12
 );
 function displayMars() {
+  productsContainer.innerHTML = "";
   bandContainer.innerHTML = `
   <div class="container-2">
                     <div class="imgGroup">
@@ -391,7 +393,7 @@ productsData.push(
 );
 
 function displayDatacha() {
-
+  productsContainer.innerHTML = "";
   bandContainer.innerHTML = `
   <div class="container-3">
                     <div class="imgGroup" style="margin-top: 20em;">
@@ -516,7 +518,7 @@ productsBaron.push(
 );
 
 function displayBaron() {
-
+  productsContainer.innerHTML = "";
   bandContainer.innerHTML = `
   <div class="container-4">
                     <div class="imgGroup">
@@ -645,7 +647,7 @@ productsLittle.push(
 );
 
 function displayLittleJimi() {
-
+  productsContainer.innerHTML = "";
   bandContainer.innerHTML = `
   <div class="container-5">
                     <div class="imgGroup">
@@ -774,7 +776,7 @@ productsRedSun.push(
 );
 
 function displayRedSun() {
-
+  productsContainer.innerHTML = "";
   bandContainer.innerHTML = `
   <div class="container-6">
                     <div class="imgGroup">
